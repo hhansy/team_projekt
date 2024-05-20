@@ -33,7 +33,7 @@ h2{
     color: black;
 }
 
-#home{
+#home, .fahiv{
     width: 100%;
     max-width: 1100px;
     margin: 0 auto;
@@ -53,7 +53,7 @@ p{
 
 .fahiv{
     text-align: center;
-    width: 35px;
+    width: 350px;
 }
 
 .modal-bg{
@@ -116,4 +116,16 @@ p{
     display: flex;
     gap: 20px;
 
+}
+
+.prof{
+
+}
+
+.txt{
+    display: flex;
+    justify-content: flex-start;
+    gap: 35px;
+    flex-wrap: wrap;
+    align-items: center;
 }
