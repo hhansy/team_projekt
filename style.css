@@ -118,11 +118,7 @@ p{
 
 }
 
-.prof{
-
-}
-
-.txt{
+.txt, .proff{
     display: flex;
     justify-content: flex-start;
     gap: 35px;
